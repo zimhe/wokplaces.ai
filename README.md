@@ -1,1 +1,2 @@
-# wokplaces.ai
+# workplaces.ai
+ 
