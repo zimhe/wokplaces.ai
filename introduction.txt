@@ -1,0 +1,1 @@
+Workplaces.ai is a program that integrates 3 core elements of our groups research, agent-based behavioral simulator,generative spatial planning tool and immersive experiantial simulator.
